@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prac</string>
+    <string name="log_user">Inicio de sesión</string>
+    <string name="name">Nombre de Usuario</string>
+    <string name="place_nam">Ingrese su nombre de Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="place_pass">Ingresa tu contraseña</string>
+    <string name="nwe_log">Iniciar Sesión</string>
+</resources>
