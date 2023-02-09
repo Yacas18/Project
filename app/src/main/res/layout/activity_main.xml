@@ -14,6 +14,13 @@
         android:textAlignment="center"
         android:textSize="24sp" />
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="109dp"
+        android:src="@drawable/logoracer"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/logo" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
