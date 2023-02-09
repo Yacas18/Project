@@ -53,7 +53,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="24dp"
-        android:background="@color/racer"
+        android:background="@color/black"
         android:text="@string/nwe_log"
         android:textColor="@color/white" />
 
