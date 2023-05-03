@@ -5,6 +5,6 @@
     <string name="place_nam">Ingrese su nombre de Usuario</string>
     <string name="pass">Contraseña</string>
     <string name="place_pass">Ingresa tu contraseña</string>
-    <string name="nwe_log">Iniciar Sesión</string>
+    <string name="new_log">Iniciar Sesión</string>
     <string name="logo">Contenido del logo</string>
 </resources>

@@ -61,7 +61,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="24dp"
         android:background="@color/racer"
-        android:text="@string/nwe_log"
+        android:text="@string/new_log"
         android:textColor="@color/white" />
 
 </LinearLayout>
